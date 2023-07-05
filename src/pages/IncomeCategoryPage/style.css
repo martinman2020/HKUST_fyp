@@ -1,0 +1,13 @@
+.list {
+    display:inline;
+}
+
+.tab {
+    white-space: pre-wrap;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+

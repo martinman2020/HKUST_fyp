@@ -1,0 +1,16 @@
+create once class fail  (OK)
+
+class scheduler ticket cannot edit  (OK)
+
+when drag the appointment to another month, the appointment failed. (only appear in 2 are different months) (OK)
+
+while deleted appointment, the appointment failed. (OK)
+
+the "once" appointment start date has modified, but the class record doesn't change.
+
+
+Customized Tuition value display error.
+The refresh after the time range changed of the class scheduler.
+
+
+TODO: if the student have not pay, the attendance form lock the student status as Absent and Not deduct from remainder.
